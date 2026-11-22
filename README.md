@@ -1,6 +1,6 @@
 # homebrew-asciikeyboard
 
-Homebrew tap for [ASCII Keyboard](https://asciikeyboard.app/) - a macOS menu bar app that converts typed text to ASCII art.
+Homebrew tap for [ASCII Keyboard](https://levz0r.github.io/ASCIIKeyboard/) - a macOS menu bar app that converts typed text to ASCII art.
 
 ## Installation
 

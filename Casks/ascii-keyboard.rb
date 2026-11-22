@@ -5,7 +5,7 @@ cask "ascii-keyboard" do
   url "https://github.com/levz0r/ASCIIKeyboard/releases/download/v#{version}/ASCIIKeyboard.dmg"
   name "ASCII Keyboard"
   desc "Menu bar app that converts typed text to ASCII art"
-  homepage "https://asciikeyboard.app/"
+  homepage "https://levz0r.github.io/ASCIIKeyboard/"
 
   app "ASCII Keyboard.app"
 
